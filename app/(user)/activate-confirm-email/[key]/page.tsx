@@ -20,7 +20,7 @@ export default function Confirm(props:Props) {
         <p className="text-3xl">
             Your email comfirmed! you can go to login page by press below button!
         </p>
-        <p className="text-3xl my-4">
+        <p className="text-3xl my-6">
         សួស្តី! តើខ្ញុំអាចជួយអ្នកជំនាញអ្វីបានទេ?        </p>
         <Button title="Login" classname="my-8" />
     </section>

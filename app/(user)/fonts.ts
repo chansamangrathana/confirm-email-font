@@ -2,9 +2,9 @@ import {Inter, Suwannaphum} from 'next/font/google'
 import localFont from "next/font/local"
 
 export const localCustomFont = localFont({
-    src: "./fonts/Power Smash.ttf",
+    src: "./fonts/Power-Smash.ttf",
     display: "swap",
-    variable: "--font-bold-sans-serif-7",
+    variable: "--font-Power-Smash",
 })
 export const inter = Inter({
 	weight: ["400", "500", "600", "700"], // you can pass multiple weights

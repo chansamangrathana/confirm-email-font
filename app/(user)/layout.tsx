@@ -13,7 +13,7 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="en">
-			<body className={`${inter.variable} ${suwannaphum.variable} ${localCustomFont.variable} `}>
+			<body className={`${inter.variable} ${suwannaphum.variable} ${localCustomFont.variable}`}>
 				<header>
 					<NavbarComponent />
 				</header>
